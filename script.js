@@ -4,7 +4,7 @@ nav.onclick = () => nav.classList.remove('open');
 document.getElementById('yr').textContent = new Date().getFullYear();
 
 // Replace with the shop's WhatsApp number (country code, no +)
-const WA_NUMBER = '910000000000';
+const WA_NUMBER = '919821539746';
 
 document.getElementById('form').onsubmit = e => {
   e.preventDefault();

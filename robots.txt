@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://ajiteshsingh202.github.io/sitemap.xml
+Sitemap: https://hariomelectrical.com/sitemap.xml
